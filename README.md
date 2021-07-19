@@ -3,7 +3,7 @@ Este proyecto esta orientado a las personas que requieren de un conocimiento sob
 
 Es un programa realizado por estudiantes que estan cursando Quinto semestre de Ingeniería en Ciencias de la Computación.
 
-![image](https://user-images.githubusercontent.com/66247356/122820461-3f63ba00-21-07-18-19.56.52png)
+![image](https://user-descargas.githubusercontent.com/21-07-18-19.56.52png)
 
 
 
