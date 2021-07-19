@@ -36,3 +36,7 @@ Licencia (Eclipse libre) - mira el archivo LICENSE.md para detalles,
 licencia PostgreSQL , 
 una licencia de código abierto liberal, 
 similar a las licencias BSD o MIT
+
+## Expresiones de Gratitud 🎁
+
+El agradecieminto de este proyecto va dirigido primero a Dios, también para nuestros tres docentes Ing. Patsy Prieto, Ing. Gustavo Navas, Ing Ricardo Albarracín que gracias a sus conocimientos se pudo concluir con éxito, a nuestros familiares y demás personas que estuvieron apoyandonos durante este proceso; y en especial a mi grupo que trabajo duro con cada una de sus tareas.
