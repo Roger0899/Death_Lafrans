@@ -32,11 +32,17 @@ En este proyecto se ha creado una página web para obtener las causas de muerte 
 - Pentaho
 
 ## Licencias
-Licencia (Eclipse libre) - mira el archivo LICENSE.md para detalles,
+- Licencia (Eclipse libre) : Mira el archivo LICENSE.md para detalles,
 
-licencia PostgreSQL , 
-una licencia de código abierto liberal, 
+- licencia PostgreSQL : 
+Es una licencia de código abierto liberal, 
 similar a las licencias BSD o MIT
+
+- Wildfly-20.0.1.Final : 
+JBoss EAP en sí es de código abierto, pero Red Hat cobra por proporcionar una suscripción de soporte para JBoss Enterprise Middleware.
+
+- Pentaho :
+Este software que comprende Pentaho Business Analytics es de código abierto ya que no se puede redistribuir bajo ninguna circunstancia
 
 ## Expresiones de Gratitud 🎁
 
