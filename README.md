@@ -3,7 +3,7 @@ Este proyecto esta orientado a las personas que requieren de un conocimiento sob
 
 Es un programa realizado por estudiantes que estan cursando Quinto semestre de Ingeniería en Ciencias de la Computación.
 
-![image](https://user-descargas.githubusercontent.com/21-07-18-19.56.52png)
+![WhatsApp Image 2021-07-18 at 19 56 52](https://user-images.githubusercontent.com/86008397/126717282-d5f925f1-f59e-40a0-af3a-cc79cc7b2307.jpeg)
 
 ## Integrantes 
 #### ALEX CATOTA
