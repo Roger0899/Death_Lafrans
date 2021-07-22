@@ -47,3 +47,5 @@ Este software que comprende Pentaho Business Analytics es de código abierto ya 
 ## Expresiones de Gratitud 🎁
 
 El agradecieminto de este proyecto va dirigido primero a Dios, también para nuestros tres docentes Ing. Patsy Prieto, Ing. Gustavo Navas, Ing Ricardo Albarracín que gracias a sus conocimientos se pudo concluir con éxito, a nuestros familiares y demás personas que estuvieron apoyandonos durante este proceso; y en especial a mi grupo que trabajo duro con cada una de sus tareas.
+
+![maxresdefault](https://user-images.githubusercontent.com/86008397/126722549-ee7d35b2-6e2a-4163-80a3-183044402354.jpg)
