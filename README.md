@@ -44,6 +44,13 @@ JBoss EAP en sí es de código abierto, pero Red Hat cobra por proporcionar una 
 - Pentaho :
 Este software que comprende Pentaho Business Analytics es de código abierto ya que no se puede redistribuir bajo ninguna circunstancia
 
+## Fuentes de Descargas 
+
+- Eclipse versión Actual -----> [https://www.eclipse.org/downloads/], 
+- wildfly-20.0.1.Final -----> [https://www.wildfly.org/downloads/],
+- Posgresql v13 -----> [https://www.postgresql.org/download/],
+- Pentaho -----> [https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho/download-pentaho.html]
+
 ## Expresiones de Gratitud 🎁
 
 El agradecieminto de este proyecto va dirigido primero a Dios, también para nuestros tres docentes Ing. Patsy Prieto, Ing. Gustavo Navas, Ing Ricardo Albarracín que gracias a sus conocimientos se pudo concluir con éxito, a nuestros familiares y demás personas que estuvieron apoyandonos durante este proceso; y en especial a mi grupo que trabajo duro con cada una de sus tareas.
