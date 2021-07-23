@@ -31,7 +31,7 @@ En este proyecto se ha creado una página web para obtener las causas de muerte 
 - Posgresql v13,
 - Pentaho
 
-## Licencias
+## Licencias 📄
 - Licencia (Eclipse libre) : Mira el archivo LICENSE.md para detalles,
 
 - licencia PostgreSQL : 
