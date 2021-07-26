@@ -26,9 +26,9 @@ En este proyecto se ha creado una página web para obtener las causas de muerte 
 
 ## Instrumentos
 
-- Eclipse versión actualizda, 
+- Eclipse versión Actualizada, 
 - wildfly-20.0.1.Final,
-- Posgresql v13,
+- Posgtresql v13,
 - Pentaho
 
 ## Licencias 📄
