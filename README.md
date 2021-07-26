@@ -55,4 +55,11 @@ Este software que comprende Pentaho Business Analytics es de código abierto ya 
 
 El agradecieminto de este proyecto va dirigido primero a Dios, también para nuestros tres docentes Ing. Patsy Prieto, Ing. Gustavo Navas, Ing Ricardo Albarracín que gracias a sus conocimientos se pudo concluir con éxito, a nuestros familiares y demás personas que estuvieron apoyandonos durante este proceso; y en especial a mi grupo que trabajo duro con cada una de sus tareas.
 
+# Vision
+- Ser la empresa reconocida como líder en nutrición, salud y bienestar a nivel mundial por parte de sus consumidores, empleados, clientes, proveedores y todos los grupos de interés relacionados con la actividad de la compañía.
+
+# Mision
+
+- Contribuir a la nutrición, salud y bienestar de las personas, poniendo a su disposición productos de la máxima calidad para cualquier momento del día y para todas las etapas de la vida, y gestionando los negocios de manera que creen valor para la compañía a la vez que para la sociedad.
+
 ![maxresdefault](https://user-images.githubusercontent.com/86008397/126722549-ee7d35b2-6e2a-4163-80a3-183044402354.jpg)
